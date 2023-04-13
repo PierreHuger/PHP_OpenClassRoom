@@ -7,7 +7,7 @@ $userAge = 19;  //Le dollar permet de donner à PHP l'information que c'est une 
 $fullname = "Pierre Huger";
 echo "Bonjour $fullname et bienvenue sur le site !";
 echo "<br>";
-echo "<br>";
+echo '<br>';
 
 echo 'Bonjour $fullname et bienvenue sur le site !';
 

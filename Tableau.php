@@ -32,8 +32,8 @@ while ($nbPersonne > $i) {
 }
 */
 
-/*
-//programme plus opti/auto:
+
+//programme plus opti/auto avec les boucles while :
 $nbCompo = 4;
 $j = 0;
 $i = 0;
@@ -52,9 +52,9 @@ while ($nbPersonne > $i) {
     $i++;
     $j = 0;
 }
-*/
 
 
+//Avec les boucles for :
 $nbCompo = 4;
 $nbPersonne = 2;
 
@@ -68,3 +68,4 @@ for ($i = 0; $i < $nbPersonne; $i++) {
     }
     echo '<br>';
 }
+
